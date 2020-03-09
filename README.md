@@ -1,5 +1,9 @@
 # cosmos-ecosystem-docs
 
+## Tendermint Consensus Algorithm
+
+[Ethan Buchman interview for Software Engineering Daily](https://softwareengineeringdaily.com/wp-content/uploads/2018/03/SED547-Tendermint.pdf)
+
 ## Staking
 
 ### Inflation 
