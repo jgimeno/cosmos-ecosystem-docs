@@ -30,5 +30,5 @@
 
 ### Whitepaper
 
-[Generic Construction of Consensus Algorithms for Benign and Byzantine Faults](https://infoscience.epfl.ch/record/146821/files/bcc-paper.pdf 14)
+[Generic Construction of Consensus Algorithms for Benign and Byzantine Faults](https://infoscience.epfl.ch/record/146821/files/bcc-paper.pdf)
 
